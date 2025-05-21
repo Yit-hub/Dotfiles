@@ -1,9 +1,10 @@
-Hyprland apps:
+# Hyprland apps:
 
-xdg-desktop-portal
-Hyprlock
-hypridle
-hyprpicker
-hyprpaper
-hyprcursor
-Nwg-look
+## xdg-desktop-portal
+## Hyprlock
+## hypridle
+## hyprpicker
+## hyprpaper
+## hyprcursor
+## Nwg-look
+## Better-control
