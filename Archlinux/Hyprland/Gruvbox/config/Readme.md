@@ -1,10 +1,9 @@
-# Hyprland apps:
-
-## xdg-desktop-portal
-## Hyprlock
-## hypridle
-## hyprpicker
-## hyprpaper
-## hyprcursor
-## Nwg-look
-## Better-control
+## Aplicaciones/Dependencias
+ - [Hyprlock](https://wiki.hyprland.org/Hypr-Ecosystem/hyprlock/)
+  - [hypridle](https://wiki.hyprland.org/Hypr-Ecosystem/hypridle/)
+   - [hyprpicker](https://wiki.hyprland.org/Hypr-Ecosystem/hyprpicker/)
+ - [hyprpaper](https://wiki.hyprland.org/Hypr-Ecosystem/hyprpaper/)
+ - [hyprcursor](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/)
+ - [Nwg-look](https://github.com/nwg-piotr/nwg-look)
+ - [Better-control](https://github.com/quantumvoid0/better-control)
+  - [xdg-desktop-portal-hyprland](https://wiki.hyprland.org/Hypr-Ecosystem/xdg-desktop-portal-hyprland/)
