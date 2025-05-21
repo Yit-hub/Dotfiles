@@ -1,1 +1,4 @@
 
+Neovim plugins:
+colorizer
+lazygit
